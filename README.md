@@ -10,6 +10,11 @@
   <li><b> Real-Time Display: </b> Display the current calculation and result in real-time. </li>
   <li><b> Error Handling: </b> Handling divide by zero and other input errors gracefully. </li>
 </ul>
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
 <br>
 Feel free to explore, modify, and enhance the Personal Finance Tracker. Contributions and feedback are welcome!
 
